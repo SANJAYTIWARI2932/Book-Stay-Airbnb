@@ -1,0 +1,10 @@
+https://delta-project-e8ut.onrender.com
+https://delta-project-e8ut.onrender.com/listings
+
+Excited to share my latest project: a hosts and travelers website implementing both frontend and backend functionalities.   
+
+Frontend Technologies: Utilized HTML, CSS, and JavaScript for building a responsive and user-friendly interface.
+
+Backend Technologies:  Node.js, Express, to create a robust server, manage databases, and handle user authentication.
+
+Database Management: Designed and implemented a database schema using MongoDB to efficiently store and retrieve user and property information.
